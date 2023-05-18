@@ -15,7 +15,8 @@
 * Meat, snacks - have the least unit sales
 * North America - have the least unit sales
 
-*Total sales - 25 million unit
-*Total profit - 1.96 billion usd
+*Total sales - 25 million unit*
+
+*Total profit - 1.96 billion usd*
 
 
